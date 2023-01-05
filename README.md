@@ -11,7 +11,7 @@
 </td>
 <td>
 
--  ⚡  Rust RISC-V
+-  ⚡  Rust / RISC-V
 -  📫 zerco@foxmail.com
 
 </td>
