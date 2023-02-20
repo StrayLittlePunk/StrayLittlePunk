@@ -14,4 +14,4 @@ Welcome to my GitHub repository. Here you will mostly find projects that about R
 
 I'm a Software Engineer. I primarily develop with Rust, RISCV. 
 
-### email zerco@foxmail.com
+### Email: `zerco@foxmail.com`
