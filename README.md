@@ -12,6 +12,6 @@ Welcome to my GitHub repository. Here you will mostly find projects that about R
 
 ## About Me
 
-I'm a Software Engineer. I primarily develop with Rust, RISCV. 
+I'm a Software Engineer.
 
 ### Email: `zerco@foxmail.com`
